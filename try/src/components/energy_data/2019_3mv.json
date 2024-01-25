@@ -1,0 +1,74 @@
+[
+  {
+    "Time": "2019-01-31",
+    "Power[kW]": 17.075032377840596,
+    "PV panels power [kW]": 2.806646757464367,
+    "Battery system power": 9.883169230417476
+  },
+  {
+    "Time": "2019-02-28",
+    "Power[kW]": 12.900185124248246,
+    "PV panels power [kW]": 9.839189538488904,
+    "Battery system power": 8.959226931232976
+  },
+  {
+    "Time": "2019-03-31",
+    "Power[kW]": 33.1452996615369,
+    "PV panels power [kW]": 8.820245199798174,
+    "Battery system power": 8.854407236576249
+  },
+  {
+    "Time": "2019-04-30",
+    "Power[kW]": 30.861321273891882,
+    "PV panels power [kW]": 19.49831011215464,
+    "Battery system power": 14.248005702285454
+  },
+  {
+    "Time": "2019-05-31",
+    "Power[kW]": 22.558936073632974,
+    "PV panels power [kW]": 17.976591822724387,
+    "Battery system power": 10.729348244619784
+  },
+  {
+    "Time": "2019-06-30",
+    "Power[kW]": 22.53606820192929,
+    "PV panels power [kW]": 20.01011772036537,
+    "Battery system power": 5.735396029889553
+  },
+  {
+    "Time": "2019-07-31",
+    "Power[kW]": 23.089620437179526,
+    "PV panels power [kW]": 17.333224099132007,
+    "Battery system power": 10.9631849329218
+  },
+  {
+    "Time": "2019-08-31",
+    "Power[kW]": 22.746574747590508,
+    "PV panels power [kW]": 17.756350134511827,
+    "Battery system power": 13.555669875300437
+  },
+  {
+    "Time": "2019-09-30",
+    "Power[kW]": 16.6024312234567,
+    "PV panels power [kW]": 13.096318217082645,
+    "Battery system power": 9.844998310481877
+  },
+  {
+    "Time": "2019-10-31",
+    "Power[kW]": 12.884710176897338,
+    "PV panels power [kW]": 6.029738714579002,
+    "Battery system power": 8.18340651151777
+  },
+  {
+    "Time": "2019-11-30",
+    "Power[kW]": 14.396391047709216,
+    "PV panels power [kW]": 4.481632925088309,
+    "Battery system power": 8.2573702728925
+  },
+  {
+    "Time": "2019-12-31",
+    "Power[kW]": 26.93402365095554,
+    "PV panels power [kW]": 2.216815071218528,
+    "Battery system power": 12.554282512512836
+  }
+]

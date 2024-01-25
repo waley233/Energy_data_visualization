@@ -1,0 +1,74 @@
+[
+  {
+    "Time": "2021-01-31",
+    "Power[kW]": 59.94856790044687,
+    "PV panels power [kW]": 2.4829276065584507,
+    "Battery system power": 0.0030824955604824046
+  },
+  {
+    "Time": "2021-02-28",
+    "Power[kW]": 84.6189786118317,
+    "PV panels power [kW]": 8.68047065384034,
+    "Battery system power": 3.4432683681629933e-7
+  },
+  {
+    "Time": "2021-03-31",
+    "Power[kW]": 79.67258701427762,
+    "PV panels power [kW]": 13.186234198581998,
+    "Battery system power": 2.6418863908742674e-7
+  },
+  {
+    "Time": "2021-04-30",
+    "Power[kW]": 77.71738464402769,
+    "PV panels power [kW]": 19.368809867412907,
+    "Battery system power": 2.281474614386301e-7
+  },
+  {
+    "Time": "2021-05-31",
+    "Power[kW]": 35.88579507592825,
+    "PV panels power [kW]": 17.05725037539758,
+    "Battery system power": 0
+  },
+  {
+    "Time": "2021-06-30",
+    "Power[kW]": 39.46587407454681,
+    "PV panels power [kW]": 15.936327013565096,
+    "Battery system power": 0
+  },
+  {
+    "Time": "2021-07-31",
+    "Power[kW]": 34.31334224855379,
+    "PV panels power [kW]": 14.541310890974438,
+    "Battery system power": 0
+  },
+  {
+    "Time": "2021-08-31",
+    "Power[kW]": 21.737010011275096,
+    "PV panels power [kW]": 13.664661069341339,
+    "Battery system power": 1.4703895357898904
+  },
+  {
+    "Time": "2021-09-30",
+    "Power[kW]": 31.11732564508234,
+    "PV panels power [kW]": 13.308541508901502,
+    "Battery system power": 5.376130135784754
+  },
+  {
+    "Time": "2021-10-31",
+    "Power[kW]": 26.181395194190422,
+    "PV panels power [kW]": 6.973409106123608,
+    "Battery system power": 0.21599113481827528
+  },
+  {
+    "Time": "2021-11-30",
+    "Power[kW]": 52.161653689204066,
+    "PV panels power [kW]": 3.045174648351312,
+    "Battery system power": 2.8616317421613945e-7
+  },
+  {
+    "Time": "2021-12-31",
+    "Power[kW]": 94.630744521294,
+    "PV panels power [kW]": 1.410979107525313,
+    "Battery system power": 2.9190411877324147e-7
+  }
+]

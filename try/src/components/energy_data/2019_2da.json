@@ -1,0 +1,1827 @@
+[
+  {
+    "Date": "2019-01-01",
+    "Humidifier power [kW]": 0.009850694444444445,
+    "HV light Power [kW]": 0.8289409722222222
+  },
+  {
+    "Date": "2019-01-02",
+    "Humidifier power [kW]": 0.009453472222222222,
+    "HV light Power [kW]": 2.5890694444444446
+  },
+  {
+    "Date": "2019-01-03",
+    "Humidifier power [kW]": 0.009630555555555555,
+    "HV light Power [kW]": 2.7933069444444447
+  },
+  {
+    "Date": "2019-01-04",
+    "Humidifier power [kW]": 0.010524305555555556,
+    "HV light Power [kW]": 2.636034027777778
+  },
+  {
+    "Date": "2019-01-05",
+    "Humidifier power [kW]": 0.009171527777777777,
+    "HV light Power [kW]": 0.8428673611111112
+  },
+  {
+    "Date": "2019-01-06",
+    "Humidifier power [kW]": 0.009434722222222223,
+    "HV light Power [kW]": 0.8333145833333333
+  },
+  {
+    "Date": "2019-01-07",
+    "Humidifier power [kW]": 0.009610416666666666,
+    "HV light Power [kW]": 3.8991756944444447
+  },
+  {
+    "Date": "2019-01-08",
+    "Humidifier power [kW]": 0.009545833333333333,
+    "HV light Power [kW]": 4.403640972222222
+  },
+  {
+    "Date": "2019-01-09",
+    "Humidifier power [kW]": 0.00992013888888889,
+    "HV light Power [kW]": 4.225844444444444
+  },
+  {
+    "Date": "2019-01-10",
+    "Humidifier power [kW]": 0.009317361111111111,
+    "HV light Power [kW]": 4.431050694444444
+  },
+  {
+    "Date": "2019-01-11",
+    "Humidifier power [kW]": 0.009145340751043115,
+    "HV light Power [kW]": 3.887413769123783
+  },
+  {
+    "Date": "2019-01-12",
+    "Humidifier power [kW]": 0.008783333333333334,
+    "HV light Power [kW]": 0.8052930555555556
+  },
+  {
+    "Date": "2019-01-13",
+    "Humidifier power [kW]": 0.008903472222222222,
+    "HV light Power [kW]": 0.8013090277777778
+  },
+  {
+    "Date": "2019-01-14",
+    "Humidifier power [kW]": 0.3496388888888889,
+    "HV light Power [kW]": 4.155531944444444
+  },
+  {
+    "Date": "2019-01-15",
+    "Humidifier power [kW]": 2.851583333333333,
+    "HV light Power [kW]": 4.404066666666666
+  },
+  {
+    "Date": "2019-01-16",
+    "Humidifier power [kW]": 0.0091875,
+    "HV light Power [kW]": 4.097558333333334
+  },
+  {
+    "Date": "2019-01-17",
+    "Humidifier power [kW]": 0.009138888888888889,
+    "HV light Power [kW]": 4.449393055555555
+  },
+  {
+    "Date": "2019-01-18",
+    "Humidifier power [kW]": 0.008663194444444444,
+    "HV light Power [kW]": 3.4380104166666663
+  },
+  {
+    "Date": "2019-01-19",
+    "Humidifier power [kW]": 0.009009722222222223,
+    "HV light Power [kW]": 0.7503826388888888
+  },
+  {
+    "Date": "2019-01-20",
+    "Humidifier power [kW]": 0.009286805555555555,
+    "HV light Power [kW]": 0.735075
+  },
+  {
+    "Date": "2019-01-21",
+    "Humidifier power [kW]": 0.0097625,
+    "HV light Power [kW]": 3.6798222222222225
+  },
+  {
+    "Date": "2019-01-22",
+    "Humidifier power [kW]": 0.00984236111111111,
+    "HV light Power [kW]": 3.7172006944444447
+  },
+  {
+    "Date": "2019-01-23",
+    "Humidifier power [kW]": 0.01014513888888889,
+    "HV light Power [kW]": 3.535328472222222
+  },
+  {
+    "Date": "2019-01-24",
+    "Humidifier power [kW]": 0.009769444444444443,
+    "HV light Power [kW]": 4.125649999999999
+  },
+  {
+    "Date": "2019-01-25",
+    "Humidifier power [kW]": 0.009398611111111111,
+    "HV light Power [kW]": 3.739995138888889
+  },
+  {
+    "Date": "2019-01-26",
+    "Humidifier power [kW]": 0.009390277777777779,
+    "HV light Power [kW]": 0.8122083333333333
+  },
+  {
+    "Date": "2019-01-27",
+    "Humidifier power [kW]": 0.009065277777777778,
+    "HV light Power [kW]": 0.7999986111111111
+  },
+  {
+    "Date": "2019-01-28",
+    "Humidifier power [kW]": 0.009277777777777777,
+    "HV light Power [kW]": 4.333740972222222
+  },
+  {
+    "Date": "2019-01-29",
+    "Humidifier power [kW]": 0.009609027777777777,
+    "HV light Power [kW]": 4.365367361111111
+  },
+  {
+    "Date": "2019-01-30",
+    "Humidifier power [kW]": 0.009670138888888888,
+    "HV light Power [kW]": 3.9732708333333333
+  },
+  {
+    "Date": "2019-01-31",
+    "Humidifier power [kW]": 0.009535416666666666,
+    "HV light Power [kW]": 4.107963194444444
+  },
+  {
+    "Date": "2019-02-01",
+    "Humidifier power [kW]": 0.009359027777777779,
+    "HV light Power [kW]": 3.828509027777778
+  },
+  {
+    "Date": "2019-02-02",
+    "Humidifier power [kW]": 0.00989236111111111,
+    "HV light Power [kW]": 0.8560833333333333
+  },
+  {
+    "Date": "2019-02-03",
+    "Humidifier power [kW]": 0.009509027777777778,
+    "HV light Power [kW]": 0.840395138888889
+  },
+  {
+    "Date": "2019-02-04",
+    "Humidifier power [kW]": 0.009222222222222222,
+    "HV light Power [kW]": 3.6821701388888886
+  },
+  {
+    "Date": "2019-02-05",
+    "Humidifier power [kW]": 0.0087336578581363,
+    "HV light Power [kW]": 4.570874826147427
+  },
+  {
+    "Date": "2019-02-06",
+    "Humidifier power [kW]": 0.3419902777777778,
+    "HV light Power [kW]": 3.9241548611111114
+  },
+  {
+    "Date": "2019-02-07",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 4.09244375
+  },
+  {
+    "Date": "2019-02-08",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.7292569444444443
+  },
+  {
+    "Date": "2019-02-09",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.7172423611111111
+  },
+  {
+    "Date": "2019-02-10",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.9122208333333333
+  },
+  {
+    "Date": "2019-02-11",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.8277388888888892
+  },
+  {
+    "Date": "2019-02-12",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.73525625
+  },
+  {
+    "Date": "2019-02-13",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.787958333333333
+  },
+  {
+    "Date": "2019-02-14",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.7939034722222225
+  },
+  {
+    "Date": "2019-02-15",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.334791666666667
+  },
+  {
+    "Date": "2019-02-16",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.69771875
+  },
+  {
+    "Date": "2019-02-17",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.7437548611111111
+  },
+  {
+    "Date": "2019-02-18",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.654011111111111
+  },
+  {
+    "Date": "2019-02-19",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.657263888888889
+  },
+  {
+    "Date": "2019-02-20",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.627444444444445
+  },
+  {
+    "Date": "2019-02-21",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.909328472222222
+  },
+  {
+    "Date": "2019-02-22",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.6716208333333333
+  },
+  {
+    "Date": "2019-02-23",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.6597034722222221
+  },
+  {
+    "Date": "2019-02-24",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.6548729166666666
+  },
+  {
+    "Date": "2019-02-25",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.604278472222222
+  },
+  {
+    "Date": "2019-02-26",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.820727777777778
+  },
+  {
+    "Date": "2019-02-27",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.5822291666666666
+  },
+  {
+    "Date": "2019-02-28",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 4.039735416666667
+  },
+  {
+    "Date": "2019-03-01",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.3902173611111106
+  },
+  {
+    "Date": "2019-03-02",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.6738541666666666
+  },
+  {
+    "Date": "2019-03-03",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 0.7739513888888889
+  },
+  {
+    "Date": "2019-03-04",
+    "Humidifier power [kW]": 0,
+    "HV light Power [kW]": 3.129673611111111
+  },
+  {
+    "Date": "2019-03-05",
+    "Humidifier power [kW]": 1.8372368055555557,
+    "HV light Power [kW]": 3.012384722222222
+  },
+  {
+    "Date": "2019-03-06",
+    "Humidifier power [kW]": 0.009122222222222223,
+    "HV light Power [kW]": 3.6590472222222226
+  },
+  {
+    "Date": "2019-03-07",
+    "Humidifier power [kW]": 0.009016666666666666,
+    "HV light Power [kW]": 3.590053472222222
+  },
+  {
+    "Date": "2019-03-08",
+    "Humidifier power [kW]": 3.36376875,
+    "HV light Power [kW]": 2.879151388888889
+  },
+  {
+    "Date": "2019-03-09",
+    "Humidifier power [kW]": 0.009554861111111111,
+    "HV light Power [kW]": 0.6637722222222222
+  },
+  {
+    "Date": "2019-03-10",
+    "Humidifier power [kW]": 0.009638194444444444,
+    "HV light Power [kW]": 0.6516444444444445
+  },
+  {
+    "Date": "2019-03-11",
+    "Humidifier power [kW]": 6.650183333333333,
+    "HV light Power [kW]": 3.375197222222222
+  },
+  {
+    "Date": "2019-03-12",
+    "Humidifier power [kW]": 6.477809027777778,
+    "HV light Power [kW]": 3.56785
+  },
+  {
+    "Date": "2019-03-13",
+    "Humidifier power [kW]": 2.6221625,
+    "HV light Power [kW]": 3.5825388888888887
+  },
+  {
+    "Date": "2019-03-14",
+    "Humidifier power [kW]": 0.009099999999999999,
+    "HV light Power [kW]": 3.688004861111111
+  },
+  {
+    "Date": "2019-03-15",
+    "Humidifier power [kW]": 0.009828472222222223,
+    "HV light Power [kW]": 3.594105555555555
+  },
+  {
+    "Date": "2019-03-16",
+    "Humidifier power [kW]": 0.009447916666666667,
+    "HV light Power [kW]": 0.6422131944444445
+  },
+  {
+    "Date": "2019-03-17",
+    "Humidifier power [kW]": 0.009502777777777777,
+    "HV light Power [kW]": 0.5407118055555555
+  },
+  {
+    "Date": "2019-03-18",
+    "Humidifier power [kW]": 0.011,
+    "HV light Power [kW]": 0.208
+  },
+  {
+    "Date": "2019-03-19",
+    "Humidifier power [kW]": 0.011,
+    "HV light Power [kW]": 0.208
+  },
+  {
+    "Date": "2019-03-20",
+    "Humidifier power [kW]": 0.010748611111111112,
+    "HV light Power [kW]": 1.3771159722222222
+  },
+  {
+    "Date": "2019-03-21",
+    "Humidifier power [kW]": 0.009064583333333332,
+    "HV light Power [kW]": 3.5544708333333332
+  },
+  {
+    "Date": "2019-03-22",
+    "Humidifier power [kW]": 0.009338194444444444,
+    "HV light Power [kW]": 3.1437236111111115
+  },
+  {
+    "Date": "2019-03-23",
+    "Humidifier power [kW]": 0.009059027777777777,
+    "HV light Power [kW]": 0.7640444444444444
+  },
+  {
+    "Date": "2019-03-24",
+    "Humidifier power [kW]": 0.00951111111111111,
+    "HV light Power [kW]": 0.5776743055555555
+  },
+  {
+    "Date": "2019-03-25",
+    "Humidifier power [kW]": 6.959289583333334,
+    "HV light Power [kW]": 3.5476256944444446
+  },
+  {
+    "Date": "2019-03-26",
+    "Humidifier power [kW]": 0.009654166666666667,
+    "HV light Power [kW]": 3.5208993055555555
+  },
+  {
+    "Date": "2019-03-27",
+    "Humidifier power [kW]": 0.009647916666666666,
+    "HV light Power [kW]": 3.689559027777778
+  },
+  {
+    "Date": "2019-03-28",
+    "Humidifier power [kW]": 0.009963194444444445,
+    "HV light Power [kW]": 3.9675124999999998
+  },
+  {
+    "Date": "2019-03-29",
+    "Humidifier power [kW]": 0.009298611111111112,
+    "HV light Power [kW]": 3.290061111111111
+  },
+  {
+    "Date": "2019-03-30",
+    "Humidifier power [kW]": 0.009306944444444444,
+    "HV light Power [kW]": 0.5733229166666667
+  },
+  {
+    "Date": "2019-03-31",
+    "Humidifier power [kW]": 0.009224475018102824,
+    "HV light Power [kW]": 0.5480789283128168
+  },
+  {
+    "Date": "2019-04-01",
+    "Humidifier power [kW]": 5.704709722222222,
+    "HV light Power [kW]": 3.0728479166666665
+  },
+  {
+    "Date": "2019-04-02",
+    "Humidifier power [kW]": 0.00934236111111111,
+    "HV light Power [kW]": 3.3554298611111113
+  },
+  {
+    "Date": "2019-04-03",
+    "Humidifier power [kW]": 0.00982638888888889,
+    "HV light Power [kW]": 3.3505034722222224
+  },
+  {
+    "Date": "2019-04-04",
+    "Humidifier power [kW]": 0.009398611111111111,
+    "HV light Power [kW]": 3.808574305555555
+  },
+  {
+    "Date": "2019-04-05",
+    "Humidifier power [kW]": 0.00941875,
+    "HV light Power [kW]": 4.646919444444444
+  },
+  {
+    "Date": "2019-04-06",
+    "Humidifier power [kW]": 0.009200694444444445,
+    "HV light Power [kW]": 0.6037993055555556
+  },
+  {
+    "Date": "2019-04-07",
+    "Humidifier power [kW]": 0.009418055555555555,
+    "HV light Power [kW]": 0.5510722222222222
+  },
+  {
+    "Date": "2019-04-08",
+    "Humidifier power [kW]": 0.009631944444444445,
+    "HV light Power [kW]": 3.3311486111111113
+  },
+  {
+    "Date": "2019-04-09",
+    "Humidifier power [kW]": 0.009933333333333334,
+    "HV light Power [kW]": 3.46053125
+  },
+  {
+    "Date": "2019-04-10",
+    "Humidifier power [kW]": 0.09639722222222223,
+    "HV light Power [kW]": 3.5002298611111113
+  },
+  {
+    "Date": "2019-04-11",
+    "Humidifier power [kW]": 7.210465972222222,
+    "HV light Power [kW]": 3.9323618055555554
+  },
+  {
+    "Date": "2019-04-12",
+    "Humidifier power [kW]": 5.308001388888889,
+    "HV light Power [kW]": 3.3588756944444444
+  },
+  {
+    "Date": "2019-04-13",
+    "Humidifier power [kW]": 0.008739583333333332,
+    "HV light Power [kW]": 0.5589131944444444
+  },
+  {
+    "Date": "2019-04-14",
+    "Humidifier power [kW]": 0.009072916666666667,
+    "HV light Power [kW]": 0.5921645833333333
+  },
+  {
+    "Date": "2019-04-15",
+    "Humidifier power [kW]": 4.2555375,
+    "HV light Power [kW]": 3.2402409722222223
+  },
+  {
+    "Date": "2019-04-16",
+    "Humidifier power [kW]": 2.1468125,
+    "HV light Power [kW]": 3.147761111111111
+  },
+  {
+    "Date": "2019-04-17",
+    "Humidifier power [kW]": 0.008677083333333334,
+    "HV light Power [kW]": 3.624499305555555
+  },
+  {
+    "Date": "2019-04-18",
+    "Humidifier power [kW]": 0.00899236111111111,
+    "HV light Power [kW]": 3.5161944444444444
+  },
+  {
+    "Date": "2019-04-19",
+    "Humidifier power [kW]": 0.008280555555555555,
+    "HV light Power [kW]": 1.393601388888889
+  },
+  {
+    "Date": "2019-04-20",
+    "Humidifier power [kW]": 0.008440277777777777,
+    "HV light Power [kW]": 0.5449138888888888
+  },
+  {
+    "Date": "2019-04-21",
+    "Humidifier power [kW]": 0.0086,
+    "HV light Power [kW]": 0.5393631944444445
+  },
+  {
+    "Date": "2019-04-22",
+    "Humidifier power [kW]": 1.27145,
+    "HV light Power [kW]": 0.5856847222222222
+  },
+  {
+    "Date": "2019-04-23",
+    "Humidifier power [kW]": 1.709698611111111,
+    "HV light Power [kW]": 3.00255
+  },
+  {
+    "Date": "2019-04-24",
+    "Humidifier power [kW]": 0.008747916666666666,
+    "HV light Power [kW]": 3.228309722222222
+  },
+  {
+    "Date": "2019-04-25",
+    "Humidifier power [kW]": 0.00850486111111111,
+    "HV light Power [kW]": 3.11598125
+  },
+  {
+    "Date": "2019-04-26",
+    "Humidifier power [kW]": 0.008498611111111111,
+    "HV light Power [kW]": 2.586796527777778
+  },
+  {
+    "Date": "2019-04-27",
+    "Humidifier power [kW]": 0.008622222222222222,
+    "HV light Power [kW]": 0.5683333333333334
+  },
+  {
+    "Date": "2019-04-28",
+    "Humidifier power [kW]": 0.008416666666666666,
+    "HV light Power [kW]": 0.5434423611111111
+  },
+  {
+    "Date": "2019-04-29",
+    "Humidifier power [kW]": 0.008852083333333333,
+    "HV light Power [kW]": 3.2561472222222223
+  },
+  {
+    "Date": "2019-04-30",
+    "Humidifier power [kW]": 0.008783333333333334,
+    "HV light Power [kW]": 3.2631361111111112
+  },
+  {
+    "Date": "2019-05-01",
+    "Humidifier power [kW]": 0.008829166666666667,
+    "HV light Power [kW]": 3.4228006944444442
+  },
+  {
+    "Date": "2019-05-02",
+    "Humidifier power [kW]": 0.009095138888888889,
+    "HV light Power [kW]": 3.5153687500000004
+  },
+  {
+    "Date": "2019-05-03",
+    "Humidifier power [kW]": 3.745176388888889,
+    "HV light Power [kW]": 3.101225
+  },
+  {
+    "Date": "2019-05-04",
+    "Humidifier power [kW]": 0.008503472222222221,
+    "HV light Power [kW]": 0.5956958333333333
+  },
+  {
+    "Date": "2019-05-05",
+    "Humidifier power [kW]": 0.008665277777777777,
+    "HV light Power [kW]": 0.5077069444444444
+  },
+  {
+    "Date": "2019-05-06",
+    "Humidifier power [kW]": 4.252388194444444,
+    "HV light Power [kW]": 3.401261111111111
+  },
+  {
+    "Date": "2019-05-07",
+    "Humidifier power [kW]": 0.008875694444444445,
+    "HV light Power [kW]": 3.386186805555556
+  },
+  {
+    "Date": "2019-05-08",
+    "Humidifier power [kW]": 0.009004166666666666,
+    "HV light Power [kW]": 3.7169145833333332
+  },
+  {
+    "Date": "2019-05-09",
+    "Humidifier power [kW]": 0.009180555555555555,
+    "HV light Power [kW]": 3.680359722222222
+  },
+  {
+    "Date": "2019-05-10",
+    "Humidifier power [kW]": 0.008313194444444444,
+    "HV light Power [kW]": 3.115984722222222
+  },
+  {
+    "Date": "2019-05-11",
+    "Humidifier power [kW]": 0.008519444444444444,
+    "HV light Power [kW]": 0.5098319444444445
+  },
+  {
+    "Date": "2019-05-12",
+    "Humidifier power [kW]": 0.008722916666666667,
+    "HV light Power [kW]": 0.51675
+  },
+  {
+    "Date": "2019-05-13",
+    "Humidifier power [kW]": 0.01204652777777778,
+    "HV light Power [kW]": 3.302886111111111
+  },
+  {
+    "Date": "2019-05-14",
+    "Humidifier power [kW]": 0.009154166666666666,
+    "HV light Power [kW]": 3.230590277777778
+  },
+  {
+    "Date": "2019-05-15",
+    "Humidifier power [kW]": 0.009221527777777778,
+    "HV light Power [kW]": 3.1135708333333336
+  },
+  {
+    "Date": "2019-05-16",
+    "Humidifier power [kW]": 1.1318006944444443,
+    "HV light Power [kW]": 3.347872222222222
+  },
+  {
+    "Date": "2019-05-17",
+    "Humidifier power [kW]": 0.009068749999999999,
+    "HV light Power [kW]": 2.9641583333333332
+  },
+  {
+    "Date": "2019-05-18",
+    "Humidifier power [kW]": 0.008391666666666667,
+    "HV light Power [kW]": 0.5401805555555556
+  },
+  {
+    "Date": "2019-05-19",
+    "Humidifier power [kW]": 0.008561805555555555,
+    "HV light Power [kW]": 0.5230659722222223
+  },
+  {
+    "Date": "2019-05-20",
+    "Humidifier power [kW]": 0.009370833333333333,
+    "HV light Power [kW]": 3.3391243055555555
+  },
+  {
+    "Date": "2019-05-21",
+    "Humidifier power [kW]": 0.008763888888888889,
+    "HV light Power [kW]": 3.4986875
+  },
+  {
+    "Date": "2019-05-22",
+    "Humidifier power [kW]": 0.008979166666666667,
+    "HV light Power [kW]": 3.6666402777777782
+  },
+  {
+    "Date": "2019-05-23",
+    "Humidifier power [kW]": 0.008892361111111111,
+    "HV light Power [kW]": 3.353024305555555
+  },
+  {
+    "Date": "2019-05-24",
+    "Humidifier power [kW]": 0.00896388888888889,
+    "HV light Power [kW]": 2.872859027777778
+  },
+  {
+    "Date": "2019-05-25",
+    "Humidifier power [kW]": 0.008916666666666666,
+    "HV light Power [kW]": 0.4742881944444445
+  },
+  {
+    "Date": "2019-05-26",
+    "Humidifier power [kW]": 0.008441666666666667,
+    "HV light Power [kW]": 0.4844451388888889
+  },
+  {
+    "Date": "2019-05-27",
+    "Humidifier power [kW]": 0.008946527777777777,
+    "HV light Power [kW]": 3.203338194444444
+  },
+  {
+    "Date": "2019-05-28",
+    "Humidifier power [kW]": 0.009409027777777777,
+    "HV light Power [kW]": 3.0416736111111113
+  },
+  {
+    "Date": "2019-05-29",
+    "Humidifier power [kW]": 0.008569136745607334,
+    "HV light Power [kW]": 2.8317532467532467
+  },
+  {
+    "Date": "2019-05-30",
+    "Humidifier power [kW]": 0.0077555555555555555,
+    "HV light Power [kW]": 0.5050138888888889
+  },
+  {
+    "Date": "2019-05-31",
+    "Humidifier power [kW]": 0.007792361111111111,
+    "HV light Power [kW]": 0.5540298611111111
+  },
+  {
+    "Date": "2019-06-01",
+    "Humidifier power [kW]": 0.008078472222222221,
+    "HV light Power [kW]": 0.5102055555555556
+  },
+  {
+    "Date": "2019-06-02",
+    "Humidifier power [kW]": 0.008630555555555555,
+    "HV light Power [kW]": 0.46895000000000003
+  },
+  {
+    "Date": "2019-06-03",
+    "Humidifier power [kW]": 0.00847361111111111,
+    "HV light Power [kW]": 3.3949784722222223
+  },
+  {
+    "Date": "2019-06-04",
+    "Humidifier power [kW]": 0.008683333333333333,
+    "HV light Power [kW]": 3.4000743055555556
+  },
+  {
+    "Date": "2019-06-05",
+    "Humidifier power [kW]": 0.008414356787491115,
+    "HV light Power [kW]": 3.5856140724946695
+  },
+  {
+    "Date": "2019-06-06",
+    "Humidifier power [kW]": 0.008253155680224404,
+    "HV light Power [kW]": 3.5579221598877977
+  },
+  {
+    "Date": "2019-06-07",
+    "Humidifier power [kW]": 0.00841111111111111,
+    "HV light Power [kW]": 3.005736111111111
+  },
+  {
+    "Date": "2019-06-08",
+    "Humidifier power [kW]": 0.008422222222222222,
+    "HV light Power [kW]": 0.4819201388888889
+  },
+  {
+    "Date": "2019-06-09",
+    "Humidifier power [kW]": 0.007722916666666667,
+    "HV light Power [kW]": 0.4736840277777778
+  },
+  {
+    "Date": "2019-06-10",
+    "Humidifier power [kW]": 0.007486111111111111,
+    "HV light Power [kW]": 0.6058395833333333
+  },
+  {
+    "Date": "2019-06-11",
+    "Humidifier power [kW]": 0.008527083333333333,
+    "HV light Power [kW]": 3.255240277777778
+  },
+  {
+    "Date": "2019-06-12",
+    "Humidifier power [kW]": 0.008519014084507042,
+    "HV light Power [kW]": 3.60553661971831
+  },
+  {
+    "Date": "2019-06-13",
+    "Humidifier power [kW]": 0.008167361111111111,
+    "HV light Power [kW]": 3.72810625
+  },
+  {
+    "Date": "2019-06-14",
+    "Humidifier power [kW]": 0.008282638888888888,
+    "HV light Power [kW]": 3.3865069444444442
+  },
+  {
+    "Date": "2019-06-15",
+    "Humidifier power [kW]": 0.008295833333333334,
+    "HV light Power [kW]": 0.6156298611111111
+  },
+  {
+    "Date": "2019-06-16",
+    "Humidifier power [kW]": 0.008220833333333333,
+    "HV light Power [kW]": 0.45160138888888884
+  },
+  {
+    "Date": "2019-06-17",
+    "Humidifier power [kW]": 0.008646527777777777,
+    "HV light Power [kW]": 3.12418125
+  },
+  {
+    "Date": "2019-06-18",
+    "Humidifier power [kW]": 0.008444444444444445,
+    "HV light Power [kW]": 3.3621854166666663
+  },
+  {
+    "Date": "2019-06-19",
+    "Humidifier power [kW]": 0.008600694444444444,
+    "HV light Power [kW]": 3.1723701388888887
+  },
+  {
+    "Date": "2019-06-20",
+    "Humidifier power [kW]": 0.008877083333333332,
+    "HV light Power [kW]": 3.3986437499999997
+  },
+  {
+    "Date": "2019-06-21",
+    "Humidifier power [kW]": 0.00899236111111111,
+    "HV light Power [kW]": 3.2240020833333336
+  },
+  {
+    "Date": "2019-06-22",
+    "Humidifier power [kW]": 0.008285416666666667,
+    "HV light Power [kW]": 0.7380180555555557
+  },
+  {
+    "Date": "2019-06-23",
+    "Humidifier power [kW]": 0.008147916666666668,
+    "HV light Power [kW]": 0.45391666666666663
+  },
+  {
+    "Date": "2019-06-24",
+    "Humidifier power [kW]": 0.008830555555555555,
+    "HV light Power [kW]": 2.8328506944444443
+  },
+  {
+    "Date": "2019-06-25",
+    "Humidifier power [kW]": 0.008493055555555556,
+    "HV light Power [kW]": 2.7760979166666666
+  },
+  {
+    "Date": "2019-06-26",
+    "Humidifier power [kW]": 0.007902083333333334,
+    "HV light Power [kW]": 3.2807131944444445
+  },
+  {
+    "Date": "2019-06-27",
+    "Humidifier power [kW]": 0.00804861111111111,
+    "HV light Power [kW]": 2.8333694444444446
+  },
+  {
+    "Date": "2019-06-28",
+    "Humidifier power [kW]": 0.008834027777777777,
+    "HV light Power [kW]": 2.781604166666667
+  },
+  {
+    "Date": "2019-06-29",
+    "Humidifier power [kW]": 0.007818750000000001,
+    "HV light Power [kW]": 0.43966388888888885
+  },
+  {
+    "Date": "2019-06-30",
+    "Humidifier power [kW]": 0.008621527777777777,
+    "HV light Power [kW]": 0.44097291666666666
+  },
+  {
+    "Date": "2019-07-01",
+    "Humidifier power [kW]": 0.008357638888888888,
+    "HV light Power [kW]": 3.2677388888888887
+  },
+  {
+    "Date": "2019-07-02",
+    "Humidifier power [kW]": 0.00836111111111111,
+    "HV light Power [kW]": 3.2523125
+  },
+  {
+    "Date": "2019-07-03",
+    "Humidifier power [kW]": 0.008758333333333333,
+    "HV light Power [kW]": 3.229257638888889
+  },
+  {
+    "Date": "2019-07-04",
+    "Humidifier power [kW]": 0.008676388888888888,
+    "HV light Power [kW]": 3.0518277777777776
+  },
+  {
+    "Date": "2019-07-05",
+    "Humidifier power [kW]": 0.008588888888888889,
+    "HV light Power [kW]": 2.8393166666666665
+  },
+  {
+    "Date": "2019-07-06",
+    "Humidifier power [kW]": 0.008166666666666666,
+    "HV light Power [kW]": 0.4741284722222222
+  },
+  {
+    "Date": "2019-07-07",
+    "Humidifier power [kW]": 0.008440972222222221,
+    "HV light Power [kW]": 0.45736875
+  },
+  {
+    "Date": "2019-07-08",
+    "Humidifier power [kW]": 0.008212500000000001,
+    "HV light Power [kW]": 2.582373611111111
+  },
+  {
+    "Date": "2019-07-09",
+    "Humidifier power [kW]": 0.008444444444444445,
+    "HV light Power [kW]": 3.2686965277777777
+  },
+  {
+    "Date": "2019-07-10",
+    "Humidifier power [kW]": 0.008369444444444445,
+    "HV light Power [kW]": 3.1333291666666665
+  },
+  {
+    "Date": "2019-07-11",
+    "Humidifier power [kW]": 0.008448611111111112,
+    "HV light Power [kW]": 3.427384027777778
+  },
+  {
+    "Date": "2019-07-12",
+    "Humidifier power [kW]": 0.008320138888888889,
+    "HV light Power [kW]": 3.0632861111111107
+  },
+  {
+    "Date": "2019-07-13",
+    "Humidifier power [kW]": 0.00836388888888889,
+    "HV light Power [kW]": 0.5007499999999999
+  },
+  {
+    "Date": "2019-07-14",
+    "Humidifier power [kW]": 0.00792361111111111,
+    "HV light Power [kW]": 0.47501041666666666
+  },
+  {
+    "Date": "2019-07-15",
+    "Humidifier power [kW]": 0.008602083333333333,
+    "HV light Power [kW]": 3.094338194444444
+  },
+  {
+    "Date": "2019-07-16",
+    "Humidifier power [kW]": 0.008574305555555555,
+    "HV light Power [kW]": 3.752314583333333
+  },
+  {
+    "Date": "2019-07-17",
+    "Humidifier power [kW]": 0.008265277777777778,
+    "HV light Power [kW]": 3.7311479166666666
+  },
+  {
+    "Date": "2019-07-18",
+    "Humidifier power [kW]": 0.008268055555555556,
+    "HV light Power [kW]": 3.3129868055555556
+  },
+  {
+    "Date": "2019-07-19",
+    "Humidifier power [kW]": 0.0084,
+    "HV light Power [kW]": 3.296847222222222
+  },
+  {
+    "Date": "2019-07-20",
+    "Humidifier power [kW]": 0.008074877536738977,
+    "HV light Power [kW]": 0.553075577326802
+  },
+  {
+    "Date": "2019-07-21",
+    "Humidifier power [kW]": 0.008189583333333333,
+    "HV light Power [kW]": 0.4818465277777778
+  },
+  {
+    "Date": "2019-07-22",
+    "Humidifier power [kW]": 0.008606250000000001,
+    "HV light Power [kW]": 2.697683333333333
+  },
+  {
+    "Date": "2019-07-23",
+    "Humidifier power [kW]": 0.009151388888888888,
+    "HV light Power [kW]": 2.6347680555555555
+  },
+  {
+    "Date": "2019-07-24",
+    "Humidifier power [kW]": 0.008134027777777776,
+    "HV light Power [kW]": 2.5854270833333333
+  },
+  {
+    "Date": "2019-07-25",
+    "Humidifier power [kW]": 0.008261805555555555,
+    "HV light Power [kW]": 2.5695180555555552
+  },
+  {
+    "Date": "2019-07-26",
+    "Humidifier power [kW]": 0.007824305555555555,
+    "HV light Power [kW]": 2.2176375
+  },
+  {
+    "Date": "2019-07-27",
+    "Humidifier power [kW]": 0.007979861111111111,
+    "HV light Power [kW]": 0.5418083333333333
+  },
+  {
+    "Date": "2019-07-28",
+    "Humidifier power [kW]": 0.008311805555555555,
+    "HV light Power [kW]": 0.6232854166666666
+  },
+  {
+    "Date": "2019-07-29",
+    "Humidifier power [kW]": 0.008642361111111111,
+    "HV light Power [kW]": 3.0093965277777777
+  },
+  {
+    "Date": "2019-07-30",
+    "Humidifier power [kW]": 0.008390277777777778,
+    "HV light Power [kW]": 2.7581847222222224
+  },
+  {
+    "Date": "2019-07-31",
+    "Humidifier power [kW]": 0.008525694444444443,
+    "HV light Power [kW]": 3.2913861111111107
+  },
+  {
+    "Date": "2019-08-01",
+    "Humidifier power [kW]": 0.008440277777777777,
+    "HV light Power [kW]": 3.074666666666667
+  },
+  {
+    "Date": "2019-08-02",
+    "Humidifier power [kW]": 0.008454861111111111,
+    "HV light Power [kW]": 2.8702743055555553
+  },
+  {
+    "Date": "2019-08-03",
+    "Humidifier power [kW]": 0.008290277777777778,
+    "HV light Power [kW]": 0.5119930555555555
+  },
+  {
+    "Date": "2019-08-04",
+    "Humidifier power [kW]": 0.008370138888888889,
+    "HV light Power [kW]": 0.5218895833333334
+  },
+  {
+    "Date": "2019-08-05",
+    "Humidifier power [kW]": 0.008440972222222221,
+    "HV light Power [kW]": 3.0052687500000004
+  },
+  {
+    "Date": "2019-08-06",
+    "Humidifier power [kW]": 0.008384722222222222,
+    "HV light Power [kW]": 3.0442465277777777
+  },
+  {
+    "Date": "2019-08-07",
+    "Humidifier power [kW]": 0.008127083333333333,
+    "HV light Power [kW]": 2.7137868055555554
+  },
+  {
+    "Date": "2019-08-08",
+    "Humidifier power [kW]": 0.008300694444444444,
+    "HV light Power [kW]": 2.6132465277777777
+  },
+  {
+    "Date": "2019-08-09",
+    "Humidifier power [kW]": 0.008527777777777776,
+    "HV light Power [kW]": 2.9704694444444444
+  },
+  {
+    "Date": "2019-08-10",
+    "Humidifier power [kW]": 0.00811111111111111,
+    "HV light Power [kW]": 0.6528784722222222
+  },
+  {
+    "Date": "2019-08-11",
+    "Humidifier power [kW]": 0.008369444444444445,
+    "HV light Power [kW]": 0.5183451388888889
+  },
+  {
+    "Date": "2019-08-12",
+    "Humidifier power [kW]": 0.008545833333333332,
+    "HV light Power [kW]": 3.0838840277777777
+  },
+  {
+    "Date": "2019-08-13",
+    "Humidifier power [kW]": 0.008244444444444445,
+    "HV light Power [kW]": 3.1804111111111113
+  },
+  {
+    "Date": "2019-08-14",
+    "Humidifier power [kW]": 0.008276388888888889,
+    "HV light Power [kW]": 3.22928125
+  },
+  {
+    "Date": "2019-08-15",
+    "Humidifier power [kW]": 0.00854375,
+    "HV light Power [kW]": 3.1939076388888887
+  },
+  {
+    "Date": "2019-08-16",
+    "Humidifier power [kW]": 0.008486805555555556,
+    "HV light Power [kW]": 2.7243631944444444
+  },
+  {
+    "Date": "2019-08-17",
+    "Humidifier power [kW]": 0.008166666666666666,
+    "HV light Power [kW]": 0.5730965277777778
+  },
+  {
+    "Date": "2019-08-18",
+    "Humidifier power [kW]": 0.00800138888888889,
+    "HV light Power [kW]": 0.5702027777777777
+  },
+  {
+    "Date": "2019-08-19",
+    "Humidifier power [kW]": 0.008430555555555556,
+    "HV light Power [kW]": 2.7834604166666668
+  },
+  {
+    "Date": "2019-08-20",
+    "Humidifier power [kW]": 0.008576388888888889,
+    "HV light Power [kW]": 2.8588618055555557
+  },
+  {
+    "Date": "2019-08-21",
+    "Humidifier power [kW]": 0.008981944444444443,
+    "HV light Power [kW]": 2.6197215277777777
+  },
+  {
+    "Date": "2019-08-22",
+    "Humidifier power [kW]": 0.008306944444444445,
+    "HV light Power [kW]": 2.8718270833333333
+  },
+  {
+    "Date": "2019-08-23",
+    "Humidifier power [kW]": 0.008839583333333333,
+    "HV light Power [kW]": 2.706085416666667
+  },
+  {
+    "Date": "2019-08-24",
+    "Humidifier power [kW]": 0.00877361111111111,
+    "HV light Power [kW]": 0.29691944444444446
+  },
+  {
+    "Date": "2019-08-25",
+    "Humidifier power [kW]": 0.008813194444444443,
+    "HV light Power [kW]": 0.24960625
+  },
+  {
+    "Date": "2019-08-26",
+    "Humidifier power [kW]": 0.00846111111111111,
+    "HV light Power [kW]": 2.921577777777778
+  },
+  {
+    "Date": "2019-08-27",
+    "Humidifier power [kW]": 0.008554166666666667,
+    "HV light Power [kW]": 2.9443881944444446
+  },
+  {
+    "Date": "2019-08-28",
+    "Humidifier power [kW]": 0.008391666666666667,
+    "HV light Power [kW]": 3.30116875
+  },
+  {
+    "Date": "2019-08-29",
+    "Humidifier power [kW]": 0.009257002801120448,
+    "HV light Power [kW]": 3.171794817927171
+  },
+  {
+    "Date": "2019-08-30",
+    "Humidifier power [kW]": 0.008846527777777778,
+    "HV light Power [kW]": 2.740303472222222
+  },
+  {
+    "Date": "2019-08-31",
+    "Humidifier power [kW]": 0.0082,
+    "HV light Power [kW]": 0.2508388888888889
+  },
+  {
+    "Date": "2019-09-01",
+    "Humidifier power [kW]": 0.008225694444444445,
+    "HV light Power [kW]": 0.25351875
+  },
+  {
+    "Date": "2019-09-02",
+    "Humidifier power [kW]": 0.008731944444444445,
+    "HV light Power [kW]": 3.0369361111111113
+  },
+  {
+    "Date": "2019-09-03",
+    "Humidifier power [kW]": 0.00810763888888889,
+    "HV light Power [kW]": 3.34655
+  },
+  {
+    "Date": "2019-09-04",
+    "Humidifier power [kW]": 0.00849375,
+    "HV light Power [kW]": 3.0764756944444445
+  },
+  {
+    "Date": "2019-09-05",
+    "Humidifier power [kW]": 0.008743055555555556,
+    "HV light Power [kW]": 2.949140972222222
+  },
+  {
+    "Date": "2019-09-06",
+    "Humidifier power [kW]": 0.008667361111111112,
+    "HV light Power [kW]": 2.8293833333333334
+  },
+  {
+    "Date": "2019-09-07",
+    "Humidifier power [kW]": 0.008385416666666666,
+    "HV light Power [kW]": 0.25759166666666666
+  },
+  {
+    "Date": "2019-09-08",
+    "Humidifier power [kW]": 0.008531944444444444,
+    "HV light Power [kW]": 0.2548298611111111
+  },
+  {
+    "Date": "2019-09-09",
+    "Humidifier power [kW]": 0.008707638888888888,
+    "HV light Power [kW]": 3.258633333333333
+  },
+  {
+    "Date": "2019-09-10",
+    "Humidifier power [kW]": 0.008925694444444444,
+    "HV light Power [kW]": 3.5546930555555556
+  },
+  {
+    "Date": "2019-09-11",
+    "Humidifier power [kW]": 0.008827083333333334,
+    "HV light Power [kW]": 3.353820138888889
+  },
+  {
+    "Date": "2019-09-12",
+    "Humidifier power [kW]": 0.00863125,
+    "HV light Power [kW]": 3.2487312499999996
+  },
+  {
+    "Date": "2019-09-13",
+    "Humidifier power [kW]": 0.008872222222222222,
+    "HV light Power [kW]": 2.8774916666666663
+  },
+  {
+    "Date": "2019-09-14",
+    "Humidifier power [kW]": 0.008352083333333333,
+    "HV light Power [kW]": 0.2814715277777778
+  },
+  {
+    "Date": "2019-09-15",
+    "Humidifier power [kW]": 0.008174305555555554,
+    "HV light Power [kW]": 0.2813361111111111
+  },
+  {
+    "Date": "2019-09-16",
+    "Humidifier power [kW]": 0.008644444444444444,
+    "HV light Power [kW]": 3.4854854166666667
+  },
+  {
+    "Date": "2019-09-17",
+    "Humidifier power [kW]": 0.008913194444444444,
+    "HV light Power [kW]": 3.5697319444444444
+  },
+  {
+    "Date": "2019-09-18",
+    "Humidifier power [kW]": 0.00872112676056338,
+    "HV light Power [kW]": 2.933019718309859
+  },
+  {
+    "Date": "2019-09-19",
+    "Humidifier power [kW]": 0.008393055555555556,
+    "HV light Power [kW]": 3.170654166666667
+  },
+  {
+    "Date": "2019-09-20",
+    "Humidifier power [kW]": 0.008677083333333334,
+    "HV light Power [kW]": 2.7292798611111113
+  },
+  {
+    "Date": "2019-09-21",
+    "Humidifier power [kW]": 0.008307638888888889,
+    "HV light Power [kW]": 0.2767409722222222
+  },
+  {
+    "Date": "2019-09-22",
+    "Humidifier power [kW]": 0.008021527777777778,
+    "HV light Power [kW]": 0.2869111111111111
+  },
+  {
+    "Date": "2019-09-23",
+    "Humidifier power [kW]": 0.00846111111111111,
+    "HV light Power [kW]": 2.8130708333333336
+  },
+  {
+    "Date": "2019-09-24",
+    "Humidifier power [kW]": 0.008575694444444445,
+    "HV light Power [kW]": 3.140853472222222
+  },
+  {
+    "Date": "2019-09-25",
+    "Humidifier power [kW]": 0.008650694444444443,
+    "HV light Power [kW]": 2.8509520833333335
+  },
+  {
+    "Date": "2019-09-26",
+    "Humidifier power [kW]": 0.008606944444444445,
+    "HV light Power [kW]": 3.1085048611111112
+  },
+  {
+    "Date": "2019-09-27",
+    "Humidifier power [kW]": 0.00825625,
+    "HV light Power [kW]": 3.0905020833333334
+  },
+  {
+    "Date": "2019-09-28",
+    "Humidifier power [kW]": 0.008436805555555555,
+    "HV light Power [kW]": 0.29243541666666667
+  },
+  {
+    "Date": "2019-09-29",
+    "Humidifier power [kW]": 0.008648611111111112,
+    "HV light Power [kW]": 0.3293347222222222
+  },
+  {
+    "Date": "2019-09-30",
+    "Humidifier power [kW]": 0.008749305555555555,
+    "HV light Power [kW]": 3.4547250000000003
+  },
+  {
+    "Date": "2019-10-01",
+    "Humidifier power [kW]": 0.008295833333333334,
+    "HV light Power [kW]": 3.521875
+  },
+  {
+    "Date": "2019-10-02",
+    "Humidifier power [kW]": 0.008495833333333333,
+    "HV light Power [kW]": 3.2175493055555555
+  },
+  {
+    "Date": "2019-10-03",
+    "Humidifier power [kW]": 0.008413194444444445,
+    "HV light Power [kW]": 3.122536111111111
+  },
+  {
+    "Date": "2019-10-04",
+    "Humidifier power [kW]": 0.00836736111111111,
+    "HV light Power [kW]": 3.064326388888889
+  },
+  {
+    "Date": "2019-10-05",
+    "Humidifier power [kW]": 0.008527777777777776,
+    "HV light Power [kW]": 0.29575
+  },
+  {
+    "Date": "2019-10-06",
+    "Humidifier power [kW]": 0.008285416666666667,
+    "HV light Power [kW]": 0.4231666666666667
+  },
+  {
+    "Date": "2019-10-07",
+    "Humidifier power [kW]": 0.008684027777777777,
+    "HV light Power [kW]": 3.18758125
+  },
+  {
+    "Date": "2019-10-08",
+    "Humidifier power [kW]": 0.008485416666666665,
+    "HV light Power [kW]": 3.1118979166666665
+  },
+  {
+    "Date": "2019-10-09",
+    "Humidifier power [kW]": 0.0082875,
+    "HV light Power [kW]": 3.2182701388888892
+  },
+  {
+    "Date": "2019-10-10",
+    "Humidifier power [kW]": 0.008382638888888889,
+    "HV light Power [kW]": 3.6413159722222224
+  },
+  {
+    "Date": "2019-10-11",
+    "Humidifier power [kW]": 0.008643055555555555,
+    "HV light Power [kW]": 3.1950562500000004
+  },
+  {
+    "Date": "2019-10-12",
+    "Humidifier power [kW]": 0.00840625,
+    "HV light Power [kW]": 0.3240513888888889
+  },
+  {
+    "Date": "2019-10-13",
+    "Humidifier power [kW]": 0.008497222222222222,
+    "HV light Power [kW]": 0.3068694444444444
+  },
+  {
+    "Date": "2019-10-14",
+    "Humidifier power [kW]": 0.008505555555555554,
+    "HV light Power [kW]": 3.1397270833333337
+  },
+  {
+    "Date": "2019-10-15",
+    "Humidifier power [kW]": 0.008150694444444445,
+    "HV light Power [kW]": 3.319995833333333
+  },
+  {
+    "Date": "2019-10-16",
+    "Humidifier power [kW]": 0.008281944444444444,
+    "HV light Power [kW]": 3.5349229166666665
+  },
+  {
+    "Date": "2019-10-17",
+    "Humidifier power [kW]": 0.008352083333333333,
+    "HV light Power [kW]": 3.2177000000000002
+  },
+  {
+    "Date": "2019-10-18",
+    "Humidifier power [kW]": 0.008702777777777778,
+    "HV light Power [kW]": 3.0001347222222225
+  },
+  {
+    "Date": "2019-10-19",
+    "Humidifier power [kW]": 0.008557638888888889,
+    "HV light Power [kW]": 0.3118604166666667
+  },
+  {
+    "Date": "2019-10-20",
+    "Humidifier power [kW]": 0.008399305555555556,
+    "HV light Power [kW]": 0.30785208333333336
+  },
+  {
+    "Date": "2019-10-21",
+    "Humidifier power [kW]": 0.008669444444444445,
+    "HV light Power [kW]": 3.3235472222222224
+  },
+  {
+    "Date": "2019-10-22",
+    "Humidifier power [kW]": 0.008471527777777777,
+    "HV light Power [kW]": 3.4098034722222224
+  },
+  {
+    "Date": "2019-10-23",
+    "Humidifier power [kW]": 0.008390972222222222,
+    "HV light Power [kW]": 3.3028472222222223
+  },
+  {
+    "Date": "2019-10-24",
+    "Humidifier power [kW]": 0.008725,
+    "HV light Power [kW]": 3.37335
+  },
+  {
+    "Date": "2019-10-25",
+    "Humidifier power [kW]": 0.008643749999999999,
+    "HV light Power [kW]": 3.164684722222222
+  },
+  {
+    "Date": "2019-10-26",
+    "Humidifier power [kW]": 0.0084,
+    "HV light Power [kW]": 0.33863472222222224
+  },
+  {
+    "Date": "2019-10-27",
+    "Humidifier power [kW]": 0.008565972222222221,
+    "HV light Power [kW]": 0.8878229166666666
+  },
+  {
+    "Date": "2019-10-28",
+    "Humidifier power [kW]": 0.008529861111111111,
+    "HV light Power [kW]": 3.4481451388888886
+  },
+  {
+    "Date": "2019-10-29",
+    "Humidifier power [kW]": 0.00844327731092437,
+    "HV light Power [kW]": 3.6260910364145658
+  },
+  {
+    "Date": "2019-10-30",
+    "Humidifier power [kW]": 0.00881875,
+    "HV light Power [kW]": 3.652759722222222
+  },
+  {
+    "Date": "2019-10-31",
+    "Humidifier power [kW]": 4.1545375,
+    "HV light Power [kW]": 3.6772472222222223
+  },
+  {
+    "Date": "2019-11-01",
+    "Humidifier power [kW]": 0.008985416666666666,
+    "HV light Power [kW]": 3.519041666666667
+  },
+  {
+    "Date": "2019-11-02",
+    "Humidifier power [kW]": 0.00894513888888889,
+    "HV light Power [kW]": 0.3543236111111111
+  },
+  {
+    "Date": "2019-11-03",
+    "Humidifier power [kW]": 0.008970138888888889,
+    "HV light Power [kW]": 0.4417118055555555
+  },
+  {
+    "Date": "2019-11-04",
+    "Humidifier power [kW]": 0.00921388888888889,
+    "HV light Power [kW]": 3.5506631944444442
+  },
+  {
+    "Date": "2019-11-05",
+    "Humidifier power [kW]": 0.009008333333333333,
+    "HV light Power [kW]": 3.799122222222222
+  },
+  {
+    "Date": "2019-11-06",
+    "Humidifier power [kW]": 0.008952083333333333,
+    "HV light Power [kW]": 3.558498611111111
+  },
+  {
+    "Date": "2019-11-07",
+    "Humidifier power [kW]": 0.009197916666666667,
+    "HV light Power [kW]": 3.318077777777778
+  },
+  {
+    "Date": "2019-11-08",
+    "Humidifier power [kW]": 0.009288888888888888,
+    "HV light Power [kW]": 3.230551388888889
+  },
+  {
+    "Date": "2019-11-09",
+    "Humidifier power [kW]": 0.009361111111111112,
+    "HV light Power [kW]": 0.35044861111111114
+  },
+  {
+    "Date": "2019-11-10",
+    "Humidifier power [kW]": 0.009484722222222223,
+    "HV light Power [kW]": 0.3699770833333333
+  },
+  {
+    "Date": "2019-11-11",
+    "Humidifier power [kW]": 0.009210416666666667,
+    "HV light Power [kW]": 3.56256875
+  },
+  {
+    "Date": "2019-11-12",
+    "Humidifier power [kW]": 0.009242361111111111,
+    "HV light Power [kW]": 3.746825
+  },
+  {
+    "Date": "2019-11-13",
+    "Humidifier power [kW]": 0.009236805555555555,
+    "HV light Power [kW]": 3.3499805555555553
+  },
+  {
+    "Date": "2019-11-14",
+    "Humidifier power [kW]": 0.008897222222222221,
+    "HV light Power [kW]": 3.615551388888889
+  },
+  {
+    "Date": "2019-11-15",
+    "Humidifier power [kW]": 2.9566868055555555,
+    "HV light Power [kW]": 3.340947916666667
+  },
+  {
+    "Date": "2019-11-16",
+    "Humidifier power [kW]": 0.009291666666666667,
+    "HV light Power [kW]": 0.3767729166666667
+  },
+  {
+    "Date": "2019-11-17",
+    "Humidifier power [kW]": 0.00927638888888889,
+    "HV light Power [kW]": 0.40086875
+  },
+  {
+    "Date": "2019-11-18",
+    "Humidifier power [kW]": 0.009297222222222222,
+    "HV light Power [kW]": 3.4578006944444444
+  },
+  {
+    "Date": "2019-11-19",
+    "Humidifier power [kW]": 0.009079861111111111,
+    "HV light Power [kW]": 3.42910625
+  },
+  {
+    "Date": "2019-11-20",
+    "Humidifier power [kW]": 0.009241666666666667,
+    "HV light Power [kW]": 3.2961833333333335
+  },
+  {
+    "Date": "2019-11-21",
+    "Humidifier power [kW]": 0.009479166666666667,
+    "HV light Power [kW]": 3.7698381944444446
+  },
+  {
+    "Date": "2019-11-22",
+    "Humidifier power [kW]": 0.00979375,
+    "HV light Power [kW]": 3.0076416666666668
+  },
+  {
+    "Date": "2019-11-23",
+    "Humidifier power [kW]": 0.009204166666666666,
+    "HV light Power [kW]": 0.37084652777777777
+  },
+  {
+    "Date": "2019-11-24",
+    "Humidifier power [kW]": 0.00975138888888889,
+    "HV light Power [kW]": 0.8447590277777778
+  },
+  {
+    "Date": "2019-11-25",
+    "Humidifier power [kW]": 0.00973263888888889,
+    "HV light Power [kW]": 3.523615277777778
+  },
+  {
+    "Date": "2019-11-26",
+    "Humidifier power [kW]": 0.009239583333333332,
+    "HV light Power [kW]": 3.9756881944444444
+  },
+  {
+    "Date": "2019-11-27",
+    "Humidifier power [kW]": 0.009077777777777777,
+    "HV light Power [kW]": 4.073634027777778
+  },
+  {
+    "Date": "2019-11-28",
+    "Humidifier power [kW]": 0.008877083333333332,
+    "HV light Power [kW]": 3.4153583333333333
+  },
+  {
+    "Date": "2019-11-29",
+    "Humidifier power [kW]": 0.009570833333333334,
+    "HV light Power [kW]": 3.299904166666667
+  },
+  {
+    "Date": "2019-11-30",
+    "Humidifier power [kW]": 0.0100625,
+    "HV light Power [kW]": 0.5254270833333333
+  },
+  {
+    "Date": "2019-12-01",
+    "Humidifier power [kW]": 0.009700694444444444,
+    "HV light Power [kW]": 0.3624909722222222
+  },
+  {
+    "Date": "2019-12-02",
+    "Humidifier power [kW]": 3.2603194444444443,
+    "HV light Power [kW]": 3.2630916666666665
+  },
+  {
+    "Date": "2019-12-03",
+    "Humidifier power [kW]": 0.009374305555555556,
+    "HV light Power [kW]": 3.2571666666666665
+  },
+  {
+    "Date": "2019-12-04",
+    "Humidifier power [kW]": 4.747159722222222,
+    "HV light Power [kW]": 3.2827930555555556
+  },
+  {
+    "Date": "2019-12-05",
+    "Humidifier power [kW]": 4.62260625,
+    "HV light Power [kW]": 3.4192868055555556
+  },
+  {
+    "Date": "2019-12-06",
+    "Humidifier power [kW]": 0.008944444444444444,
+    "HV light Power [kW]": 3.1574569444444447
+  },
+  {
+    "Date": "2019-12-07",
+    "Humidifier power [kW]": 0.00968611111111111,
+    "HV light Power [kW]": 0.37965000000000004
+  },
+  {
+    "Date": "2019-12-08",
+    "Humidifier power [kW]": 0.009594444444444444,
+    "HV light Power [kW]": 0.42944375
+  },
+  {
+    "Date": "2019-12-09",
+    "Humidifier power [kW]": 0.009568055555555555,
+    "HV light Power [kW]": 3.2612666666666668
+  },
+  {
+    "Date": "2019-12-10",
+    "Humidifier power [kW]": 5.418686805555556,
+    "HV light Power [kW]": 3.5122138888888887
+  },
+  {
+    "Date": "2019-12-11",
+    "Humidifier power [kW]": 0.009085416666666667,
+    "HV light Power [kW]": 3.507483333333333
+  },
+  {
+    "Date": "2019-12-12",
+    "Humidifier power [kW]": 0.008409722222222221,
+    "HV light Power [kW]": 3.455445138888889
+  },
+  {
+    "Date": "2019-12-13",
+    "Humidifier power [kW]": 0.009315277777777778,
+    "HV light Power [kW]": 3.2645055555555555
+  },
+  {
+    "Date": "2019-12-14",
+    "Humidifier power [kW]": 0.00922986111111111,
+    "HV light Power [kW]": 0.3834319444444444
+  },
+  {
+    "Date": "2019-12-15",
+    "Humidifier power [kW]": 0.009738888888888889,
+    "HV light Power [kW]": 0.44243472222222224
+  },
+  {
+    "Date": "2019-12-16",
+    "Humidifier power [kW]": 1.6310166666666668,
+    "HV light Power [kW]": 3.32446875
+  },
+  {
+    "Date": "2019-12-17",
+    "Humidifier power [kW]": 0.009581944444444445,
+    "HV light Power [kW]": 3.1668479166666668
+  },
+  {
+    "Date": "2019-12-18",
+    "Humidifier power [kW]": 0.009429166666666666,
+    "HV light Power [kW]": 3.283349305555556
+  },
+  {
+    "Date": "2019-12-19",
+    "Humidifier power [kW]": 0.008781944444444445,
+    "HV light Power [kW]": 3.8885666666666667
+  },
+  {
+    "Date": "2019-12-20",
+    "Humidifier power [kW]": 0.008847916666666667,
+    "HV light Power [kW]": 3.3892583333333333
+  },
+  {
+    "Date": "2019-12-21",
+    "Humidifier power [kW]": 0.008908333333333332,
+    "HV light Power [kW]": 0.43362500000000004
+  },
+  {
+    "Date": "2019-12-22",
+    "Humidifier power [kW]": 0.00920625,
+    "HV light Power [kW]": 0.4469756944444444
+  },
+  {
+    "Date": "2019-12-23",
+    "Humidifier power [kW]": 0.009350694444444444,
+    "HV light Power [kW]": 1.6484013888888889
+  },
+  {
+    "Date": "2019-12-24",
+    "Humidifier power [kW]": 0.009926388888888889,
+    "HV light Power [kW]": 0.9462291666666667
+  },
+  {
+    "Date": "2019-12-25",
+    "Humidifier power [kW]": 0.009590277777777777,
+    "HV light Power [kW]": 0.4371597222222222
+  },
+  {
+    "Date": "2019-12-26",
+    "Humidifier power [kW]": 0.009633333333333334,
+    "HV light Power [kW]": 0.4309354166666667
+  },
+  {
+    "Date": "2019-12-27",
+    "Humidifier power [kW]": 0.00985,
+    "HV light Power [kW]": 1.1531493055555555
+  },
+  {
+    "Date": "2019-12-28",
+    "Humidifier power [kW]": 0.009814583333333333,
+    "HV light Power [kW]": 0.4274236111111111
+  },
+  {
+    "Date": "2019-12-29",
+    "Humidifier power [kW]": 0.009879166666666666,
+    "HV light Power [kW]": 0.4246076388888889
+  },
+  {
+    "Date": "2019-12-30",
+    "Humidifier power [kW]": 7.1664625,
+    "HV light Power [kW]": 1.5261930555555554
+  },
+  {
+    "Date": "2019-12-31",
+    "Humidifier power [kW]": 3.4571597222222223,
+    "HV light Power [kW]": 1.3142395833333333
+  }
+]

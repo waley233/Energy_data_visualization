@@ -1,0 +1,74 @@
+[
+  {
+    "Time": "2020-01-31",
+    "Power[kW]": 32.95692542959258,
+    "PV panels power [kW]": 1.8455077168967817,
+    "Battery system power": 17.55886011913525
+  },
+  {
+    "Time": "2020-02-29",
+    "Power[kW]": 53.01243470099246,
+    "PV panels power [kW]": 3.9622733854838117,
+    "Battery system power": 21.61734962781459
+  },
+  {
+    "Time": "2020-03-31",
+    "Power[kW]": 50.02913042686534,
+    "PV panels power [kW]": 16.895856497907964,
+    "Battery system power": 20.700198358315557
+  },
+  {
+    "Time": "2020-04-30",
+    "Power[kW]": 65.5082469031924,
+    "PV panels power [kW]": 24.092098962926404,
+    "Battery system power": 21.43772399961739
+  },
+  {
+    "Time": "2020-05-31",
+    "Power[kW]": 41.90095785859847,
+    "PV panels power [kW]": 24.6163916354749,
+    "Battery system power": 19.166236889933273
+  },
+  {
+    "Time": "2020-06-30",
+    "Power[kW]": 20.548024451617817,
+    "PV panels power [kW]": 19.177728160415192,
+    "Battery system power": 0.9413723176676599
+  },
+  {
+    "Time": "2020-07-31",
+    "Power[kW]": 18.677885908608374,
+    "PV panels power [kW]": 17.33172114242988,
+    "Battery system power": 3.676583108429217e-7
+  },
+  {
+    "Time": "2020-08-31",
+    "Power[kW]": 40.637240358951416,
+    "PV panels power [kW]": 16.667314232792503,
+    "Battery system power": 4.063623780248729e-7
+  },
+  {
+    "Time": "2020-09-30",
+    "Power[kW]": 19.076215556118836,
+    "PV panels power [kW]": 14.953740215744283,
+    "Battery system power": 3.7061320381644546e-7
+  },
+  {
+    "Time": "2020-10-31",
+    "Power[kW]": 14.039671165386235,
+    "PV panels power [kW]": 4.154432616124724,
+    "Battery system power": 4.2335391933672034e-7
+  },
+  {
+    "Time": "2020-11-30",
+    "Power[kW]": 24.62363497446745,
+    "PV panels power [kW]": 3.6255834989216593,
+    "Battery system power": 4.744050071821284e-7
+  },
+  {
+    "Time": "2020-12-31",
+    "Power[kW]": 32.92275294920333,
+    "PV panels power [kW]": 1.2385131921790449,
+    "Battery system power": 1.7559125713823294
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "element": "^0.1.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}

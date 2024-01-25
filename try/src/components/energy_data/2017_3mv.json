@@ -1,0 +1,74 @@
+[
+  {
+    "DateTime": "2017-01-31",
+    "Power[kW]": 72.45115580835488,
+    "PV panels power [kW]": 3.8927663213965213,
+    "Battery system power": 0.00005898287153836008
+  },
+  {
+    "DateTime": "2017-02-28",
+    "Power[kW]": 65.05723625287695,
+    "PV panels power [kW]": 3.8703688644699654,
+    "Battery system power": 3.1627662650997515
+  },
+  {
+    "DateTime": "2017-03-31",
+    "Power[kW]": 54.60598482846418,
+    "PV panels power [kW]": 13.792390692833004,
+    "Battery system power": 1.7804682641384337
+  },
+  {
+    "DateTime": "2017-04-30",
+    "Power[kW]": 62.14590189457293,
+    "PV panels power [kW]": 17.647123837499667,
+    "Battery system power": 5.475839711821733
+  },
+  {
+    "DateTime": "2017-05-31",
+    "Power[kW]": 39.83020862000751,
+    "PV panels power [kW]": 18.764880172160844,
+    "Battery system power": 6.12365862049689
+  },
+  {
+    "DateTime": "2017-06-30",
+    "Power[kW]": 25.030881151117033,
+    "PV panels power [kW]": 18.881797938268623,
+    "Battery system power": 4.60768419967192
+  },
+  {
+    "DateTime": "2017-07-31",
+    "Power[kW]": 17.168042369358673,
+    "PV panels power [kW]": 16.052407125574224,
+    "Battery system power": 0.00005567041711952393
+  },
+  {
+    "DateTime": "2017-08-31",
+    "Power[kW]": 17.393547973305157,
+    "PV panels power [kW]": 16.42924696238664,
+    "Battery system power": 0.00005981161127647512
+  },
+  {
+    "DateTime": "2017-09-30",
+    "Power[kW]": 16.76871513900954,
+    "PV panels power [kW]": 13.086339023869128,
+    "Battery system power": 1.1408048826250934
+  },
+  {
+    "DateTime": "2017-10-31",
+    "Power[kW]": 14.275207217624171,
+    "PV panels power [kW]": 7.20044879481957,
+    "Battery system power": 1.9557644514660937
+  },
+  {
+    "DateTime": "2017-11-30",
+    "Power[kW]": 20.269185640879183,
+    "PV panels power [kW]": 3.861900970870625,
+    "Battery system power": 1.1525223512438538
+  },
+  {
+    "DateTime": "2017-12-31",
+    "Power[kW]": 8.824531678244146,
+    "PV panels power [kW]": 1.1861983215652565,
+    "Battery system power": 0.08782197583358191
+  }
+]

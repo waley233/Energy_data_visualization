@@ -1,0 +1,62 @@
+[
+  {
+    "DateTime": "2016-01-31",
+    "HVAC Actual [kW]": 28.217764352,
+    "Chiller Power [kW]": 2.360132532
+  },
+  {
+    "DateTime": "2016-02-29",
+    "HVAC Actual [kW]": 54.899444343,
+    "Chiller Power [kW]": 4.156254074
+  },
+  {
+    "DateTime": "2016-03-31",
+    "HVAC Actual [kW]": 65.547781147,
+    "Chiller Power [kW]": 4.448013187
+  },
+  {
+    "DateTime": "2016-04-30",
+    "HVAC Actual [kW]": 62.981188761,
+    "Chiller Power [kW]": 5.041237364
+  },
+  {
+    "DateTime": "2016-05-31",
+    "HVAC Actual [kW]": 72.621684696,
+    "Chiller Power [kW]": 13.206992703
+  },
+  {
+    "DateTime": "2016-06-30",
+    "HVAC Actual [kW]": 84.934418785,
+    "Chiller Power [kW]": 18.128844876
+  },
+  {
+    "DateTime": "2016-07-31",
+    "HVAC Actual [kW]": 83.182952779,
+    "Chiller Power [kW]": 23.901552083
+  },
+  {
+    "DateTime": "2016-08-31",
+    "HVAC Actual [kW]": 63.258820836,
+    "Chiller Power [kW]": 24.077103474
+  },
+  {
+    "DateTime": "2016-09-30",
+    "HVAC Actual [kW]": 54.108270467,
+    "Chiller Power [kW]": 22.776038791
+  },
+  {
+    "DateTime": "2016-10-31",
+    "HVAC Actual [kW]": 46.773706404,
+    "Chiller Power [kW]": 4.428784361
+  },
+  {
+    "DateTime": "2016-11-30",
+    "HVAC Actual [kW]": 60.038181675000004,
+    "Chiller Power [kW]": 4.315848956
+  },
+  {
+    "DateTime": "2016-12-31",
+    "HVAC Actual [kW]": 58.013147616,
+    "Chiller Power [kW]": 4.471060622
+  }
+]

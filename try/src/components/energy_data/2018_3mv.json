@@ -1,0 +1,74 @@
+[
+  {
+    "Time": "2018-01-31",
+    "Power[kW]": 11.41133423768021,
+    "PV panels power [kW]": 1.6477750349882538,
+    "Battery system power": 1.4717577405867068
+  },
+  {
+    "Time": "2018-02-28",
+    "Power[kW]": 12.174744111570611,
+    "PV panels power [kW]": 12.985533238402171,
+    "Battery system power": 0.7785369464709385
+  },
+  {
+    "Time": "2018-03-31",
+    "Power[kW]": 11.756042331831775,
+    "PV panels power [kW]": 10.449203449520658,
+    "Battery system power": 0.00006632477260422793
+  },
+  {
+    "Time": "2018-04-30",
+    "Power[kW]": 15.034765771391442,
+    "PV panels power [kW]": 15.566323317414048,
+    "Battery system power": 0.4711005239254768
+  },
+  {
+    "Time": "2018-05-31",
+    "Power[kW]": 22.431787358982007,
+    "PV panels power [kW]": 23.0243471252226,
+    "Battery system power": 1.1929572870748466
+  },
+  {
+    "Time": "2018-06-30",
+    "Power[kW]": 25.9706376102898,
+    "PV panels power [kW]": 17.055795305083297,
+    "Battery system power": 5.510908318680234
+  },
+  {
+    "Time": "2018-07-31",
+    "Power[kW]": 35.59593434197756,
+    "PV panels power [kW]": 21.727654823496973,
+    "Battery system power": 4.8549817622924
+  },
+  {
+    "Time": "2018-08-31",
+    "Power[kW]": 32.18665228615428,
+    "PV panels power [kW]": 16.143493013521816,
+    "Battery system power": 5.693221384311524
+  },
+  {
+    "Time": "2018-09-30",
+    "Power[kW]": 29.92941165855156,
+    "PV panels power [kW]": 16.144923375721188,
+    "Battery system power": 14.208325810539543
+  },
+  {
+    "Time": "2018-10-31",
+    "Power[kW]": 18.22123011671186,
+    "PV panels power [kW]": 10.746194086951386,
+    "Battery system power": 5.00178043508233
+  },
+  {
+    "Time": "2018-11-30",
+    "Power[kW]": 14.686918269479674,
+    "PV panels power [kW]": 4.747057314008214,
+    "Battery system power": 4.419013316361345
+  },
+  {
+    "Time": "2018-12-31",
+    "Power[kW]": 12.416361990577855,
+    "PV panels power [kW]": 1.729633992201736,
+    "Battery system power": 5.1281567233495045
+  }
+]
